@@ -1,4 +1,4 @@
-# Program: Prediksi Konsentrasi NO₂ menggunakan Interpolasi Lagrange, Spline Kubik, dan Regresi Kuadrat
+# Prediksi Konsentrasi NO₂ menggunakan Interpolasi Lagrange, Spline Kubik, dan Regresi Kuadrat
 
 **Kelompok 25:**
 
