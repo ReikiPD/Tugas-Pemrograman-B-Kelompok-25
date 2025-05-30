@@ -60,7 +60,7 @@ g++ -o predict_no2 predict_no2.cpp
 - laporan_pemrogramanB.pdf — Laporan hasil eksperimen dan analisis (opsional)
 
 ## Catatan  
-Perlu diketahui bahwa program ini menggunakan gnuplot yang merupakan aplikasi eksternal yang perlu di install karena gnuplot merupakan aplikasi yang berfungsi untuk memberikan visualisasi grafik plot.
+Perlu diketahui bahwa program ini menggunakan gnuplot yang merupakan aplikasi eksternal yang perlu di install karena gnuplot merupakan aplikasi yang berfungsi untuk memberikan visualisasi grafik plot. Tanpa adanya gnuplot program masih dapat memberikan output yang sesuai tetapi output file .gp tidak akan bisa dibaca sehingga tidak akan menampilkan visualisasi grafik output program.
 
 ## Referensi
 
