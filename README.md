@@ -59,6 +59,9 @@ g++ -o predict_no2 predict_no2.cpp
 
 - laporan_pemrogramanB.pdf — Laporan hasil eksperimen dan analisis (opsional)
 
+## Catatan  
+Perlu diketahui bahwa program ini menggunakan gnuplot yang merupakan aplikasi eksternal yang perlu di install karena gnuplot merupakan aplikasi yang berfungsi untuk memberikan visualisasi grafik plot.
+
 ## Referensi
 
 [1] S. C. Chapra dan R. P. Canale, Numerical Methods for Engineers, 7th ed., New York: McGraw-Hill, 2010.  
